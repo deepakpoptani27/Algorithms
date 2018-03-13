@@ -1,5 +1,6 @@
 package com.practice.algo.backtracking;
 
+// To find groups of 1s in a m*n matrix
 
 
 public class FindGroupsInMatrix {
